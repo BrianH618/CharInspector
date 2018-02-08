@@ -24,6 +24,7 @@ int main()
   }
   else
   {
+    cout<<letter;
     //in all other cases...
     cout<<"?! Pssh. What are you talking about?\n";
   }
